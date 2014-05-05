@@ -1,0 +1,32 @@
+{
+  "name": "jqb-ko-fastclick",
+  "version": "0.1.0",
+  "description": "fastclick custom data binding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jQbrick/jqb-ko-fastclick"
+  },
+  "keywords": [
+    "knockoutjs",
+    "fastclick",
+    "click",
+    "binding",
+    "custom binding"
+  ],
+  "author": {
+    "name": "Marco Pegoraro",
+    "url": "http://movableapp.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jQbrick/jqb-ko-fastclick/issues"
+  },
+  "homepage": "https://github.com/jQbrick/jqb-ko-fastclick",
+  "dependencies": {
+    "fastclick": "^1.0.1"
+  }
+}
