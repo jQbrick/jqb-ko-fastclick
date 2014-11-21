@@ -1,6 +1,6 @@
 {
   "name": "jqb-ko-fastclick",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "fastclick custom data binding",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/jQbrick/jqb-ko-fastclick",
   "dependencies": {
-    "fastclick": "^1.0.1"
+    "fastclick": "^1.0.3"
   }
 }
